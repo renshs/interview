@@ -1,5 +1,7 @@
 # Interview
 
+Реализации функций можно найти в src/generators.py
+
 ## installation 
 ```
     $ git clone git@github.com:renshs/interview.git
